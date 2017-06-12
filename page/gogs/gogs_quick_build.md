@@ -67,9 +67,9 @@ su git
 最下方配置选项建议点一点做详细配置，如果添加内置SSH避开系统上的22端口，管理员账号不允许admin  避开吧
 
 
-![image](https://github.com/ShapeOFwind/Wind-shape/blob/master/img/gogs/001.png)
+![image](./img/001.png)
 
-![image](https://github.com/ShapeOFwind/Wind-shape/blob/master/img/gogs/002.png)
+![image](./img/002.png)
 
 ###### 至此安装结束
 
