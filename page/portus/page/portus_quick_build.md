@@ -49,6 +49,7 @@ vim  /etc/mysqlaccess.conf
 //编辑sql用户access文件
 ```
 ![image](../img/001.png)
+
 个人习惯简单密码centos走起来要不就redhat
 ```
 mysql_secure_installation
