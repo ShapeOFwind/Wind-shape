@@ -1,0 +1,1 @@
+### [Gogs安装配置(快速搭建版)](./page/gogs_quick_build.md)
